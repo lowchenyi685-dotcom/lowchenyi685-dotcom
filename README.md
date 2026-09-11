@@ -7,5 +7,5 @@
 
 ## 🛠️ Tools I Use
 
-my Languages is English and Chines I use the Arduino
+my Languages is English and Chinese I use the Arduino
 
