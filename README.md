@@ -3,9 +3,9 @@
 
 ## 🏗️ What I'm Building
 
-<RFID STUDENT PICKUP SYSTEM >
+RFID STUDENT PICKUP SYSTEM 
 
 ## 🛠️ Tools I Use
 
-<my Languages is English and Chines I use the Arduino>
+my Languages is English and Chines I use the Arduino
 
